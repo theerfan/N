@@ -12,3 +12,4 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 
 <!--- - [ ] [](). -->
 ### Papers 
+- [x] [Are there optical communication channels in the brain?](https://arxiv.org/pdf/1708.08887)
