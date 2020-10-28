@@ -18,3 +18,4 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 ### Papers 
 - [x] [Are there optical communication channels in the brain?](https://arxiv.org/pdf/1708.08887)
 - [x] [A neural model of hierarchical reinforcement learning](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180234).
+- [ ] [Correlated neuronal activity and the flow of neural information](https://www.nature.com/articles/35086012).
