@@ -18,4 +18,6 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 ### Papers 
 - [x] [Are there optical communication channels in the brain?](https://arxiv.org/pdf/1708.08887)
 - [x] [A neural model of hierarchical reinforcement learning](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180234).
+- [ ] [Vector Symbolic Architectures answer Jackendoff's challenges for cognitive neuroscience](https://arxiv.org/pdf/cs/0412059t).
+- [ ] [A scaleable spiking neural model of action planning](https://mindmodeling.org/cogsci2016/papers/0279/paper0279.pdf).
 - [ ] [Correlated neuronal activity and the flow of neural information](https://www.nature.com/articles/35086012).
