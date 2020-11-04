@@ -20,4 +20,5 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 - [x] [A neural model of hierarchical reinforcement learning](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180234).
 - [ ] [Vector Symbolic Architectures answer Jackendoff's challenges for cognitive neuroscience](https://arxiv.org/pdf/cs/0412059t).
 - [ ] [A scaleable spiking neural model of action planning](https://mindmodeling.org/cogsci2016/papers/0279/paper0279.pdf).
+- [ ] [Holographic reduced representations](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.33.4546&rep=rep1&type=pdf).
 - [ ] [Correlated neuronal activity and the flow of neural information](https://www.nature.com/articles/35086012).
