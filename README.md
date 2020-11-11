@@ -26,3 +26,5 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 - [ ] [A scalable spiking neural model of action planning](https://mindmodeling.org/cogsci2016/papers/0279/paper0279.pdf).
 - [ ] [Holographic reduced representations](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.33.4546&rep=rep1&type=pdf).
 - [ ] [Correlated neuronal activity and the flow of neural information](https://www.nature.com/articles/35086012).
+- [ ] [Is It Enough To Get The Behaviour Right?](https://www.ijcai.org/Proceedings/09/Papers/241.pdf).
+
