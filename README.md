@@ -22,6 +22,7 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 - [x] [A scaleable spiking neural model of action planning](https://cogsci.mindmodeling.org/2016/papers/0279/paper0279.pdf).
 - [x] [Style memory: Making a classifier network generative](https://arxiv.org/pdf/1803.01900).
 - [x] [Investigating the evolution of a neuroplasticity network for learning](https://cs.uwaterloo.ca/~jorchard/academic/WangOrchard_TransSMC_2017.pdf).
+- [ ] [The Existence of Persistent States in the Brain](https://link.springer.com/chapter/10.1007%2F978-1-4613-0411-1_12).
 - [ ] [Vector Symbolic Architectures answer Jackendoff's challenges for cognitive neuroscience](https://arxiv.org/pdf/cs/0412059t).
 - [ ] [A scalable spiking neural model of action planning](https://mindmodeling.org/cogsci2016/papers/0279/paper0279.pdf).
 - [ ] [Holographic reduced representations](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.33.4546&rep=rep1&type=pdf).
